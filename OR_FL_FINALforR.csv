@@ -1,0 +1,295 @@
+Sample_ID,N_LOC,Site,HvW,Year,OR,FL
+VE554,CNH,Coleman National Fish Hatchery,H,2002,246,28.248
+VE271,CNH,Coleman National Fish Hatchery,H,2002,267,28.711
+VE268,CNH,Coleman National Fish Hatchery,H,2002,256,28.716
+VE234,CNH,Coleman National Fish Hatchery,H,2002,261,29.189
+VE381,CNH,Coleman National Fish Hatchery,H,2002,238,29.263
+VE235,CNH,Coleman National Fish Hatchery,H,2002,292,29.285
+VE552,CNH,Coleman National Fish Hatchery,H,2002,226,30.026
+VE379,CNH,Coleman National Fish Hatchery,H,2002,254,30.773
+VE331,CNH,Coleman National Fish Hatchery,H,2002,294,30.814
+VE380,CNH,Coleman National Fish Hatchery,H,2002,263,31.161
+VE455,CNH,Coleman National Fish Hatchery,H,2002,335,31.588
+VE509,CNH,Coleman National Fish Hatchery,H,2002,231,31.597
+VE222,CNH,Coleman National Fish Hatchery,H,2002,290,31.85
+VE263,CNH,Coleman National Fish Hatchery,H,2002,261,32.376
+VE438,CNH,Coleman National Fish Hatchery,H,2002,294,32.676
+VE406,CNH,Coleman National Fish Hatchery,H,2002,316,32.718
+VE415,CNH,Coleman National Fish Hatchery,H,2002,335,32.718
+VE417,CNH,Coleman National Fish Hatchery,H,2002,317,32.925
+VE317,CNH,Coleman National Fish Hatchery,H,2002,286,32.965
+VE318,CNH,Coleman National Fish Hatchery,H,2002,329,33.074
+VE213,CNH,Coleman National Fish Hatchery,H,2002,309,33.479
+VE422,CNH,Coleman National Fish Hatchery,H,2002,319,33.712
+VE112,CNH,Coleman National Fish Hatchery,H,2002,305,33.748
+VE290,CNH,Coleman National Fish Hatchery,H,2002,318,33.753
+VE323,CNH,Coleman National Fish Hatchery,H,2002,307,34.132
+VE366,CNH,Coleman National Fish Hatchery,H,2002,323,34.142
+VE328,CNH,Coleman National Fish Hatchery,H,2002,327,34.272
+VE106,CNH,Coleman National Fish Hatchery,H,2002,286,34.385
+VE475,CNH,Coleman National Fish Hatchery,H,2002,325,34.48
+VE204,CNH,Coleman National Fish Hatchery,H,2002,313,34.754
+VE202,CNH,Coleman National Fish Hatchery,H,2002,320,35.031
+VE150,CNH,Coleman National Fish Hatchery,H,2002,312,35.075
+VE212,CNH,Coleman National Fish Hatchery,H,2002,335,35.367
+VE524,CNH,Coleman National Fish Hatchery,H,2002,318,35.481
+VE199,CNH,Coleman National Fish Hatchery,H,2002,314,35.512
+VE293,CNH,Coleman National Fish Hatchery,H,2002,342,36.06
+VE185,CNH,Coleman National Fish Hatchery,H,2002,331,36.086
+VE163,CNH,Coleman National Fish Hatchery,H,2002,301,36.191
+VE173,CNH,Coleman National Fish Hatchery,H,2002,316,36.371
+VE338,CNH,Coleman National Fish Hatchery,H,2002,316,37.506
+SG150051,GG (ee),Golden Gate,?,2005,503.0666,83
+SG150052,GG (ee),Golden Gate,?,2005,493.3247,81
+SG150053,GG (ee),Golden Gate,?,2005,605.3589,77
+SG150054,GG (ee),Golden Gate,?,2005,481.688,74
+SG150055,GG (ee),Golden Gate,?,2005,518.2201,75
+SG150056,GG (ee),Golden Gate,?,2005,558.5471,90
+SG150062,GG (ee),Golden Gate,?,2005,579.6,84
+SG150064,GG (ee),Golden Gate,?,2005,565.0405,78
+SG150075,GG (ee),Golden Gate,?,2005,740.2884,114
+SG150077,GG (ee),Golden Gate,?,2005,632.51,79
+SG150078,GG (ee),Golden Gate,?,2005,629.1,94
+SG150080,GG (ee),Golden Gate,?,2005,440.8256,74
+SG150081,GG (ee),Golden Gate,?,2005,546.3642,74
+SG150086,GG (ee),Golden Gate,?,2005,493.3296,77
+SG150087,GG (ee),Golden Gate,?,2005,563.93,80
+SG150088,GG (ee),Golden Gate,?,2005,414.95,74
+SG150089,GG (ee),Golden Gate,?,2005,457.13,75
+SG150090,GG (ee),Golden Gate,?,2005,523.0917,82
+SG150093,GG (ee),Golden Gate,?,2005,530.3943,84
+SG150094,GG (ee),Golden Gate,?,2005,595.37,90
+SG150098,GG (ee),Golden Gate,?,2005,552.36,75
+SG150101,GG (ee),Golden Gate,?,2005,563.9559,90
+SG150102,GG (ee),Golden Gate,?,2005,735.9749,132
+SG150103,GG (ee),Golden Gate,?,2005,568.0143,82
+SG150105,GG (ee),Golden Gate,?,2005,503.3369,76
+SG150107,GG (ee),Golden Gate,?,2005,545.56,88
+SG150109,GG (ee),Golden Gate,?,2005,529.24,88
+SG150113,GG (ee),Golden Gate,?,2005,522.84,75
+SG150115,GG (ee),Golden Gate,?,2005,545.99,77
+SG150116,GG (ee),Golden Gate,?,2005,514.7093,82
+SG150118,GG (ee),Golden Gate,?,2005,496.04,77
+SG150128,GG (ee),Golden Gate,?,2005,573.155,88
+SG150130,GG (ee),Golden Gate,?,2005,641.09,90
+SG150131,GG (ee),Golden Gate,?,2005,601.21,84
+SG150132,GG (ee),Golden Gate,?,2005,502.71,83
+SG150133,GG (ee),Golden Gate,?,2005,575.22,85
+SG150134,GG (ee),Golden Gate,?,2005,537.7031,82
+SG150136,GG (ee),Golden Gate,?,2005,588.3167,95
+SG150137,GG (ee),Golden Gate,?,2005,671.1162,107
+SG150142,GG (ee),Golden Gate,?,2005,523.6325,84
+SG150143,GG (ee),Golden Gate,?,2005,529.3155,77
+SG150144,GG (ee),Golden Gate,?,2005,585.3319,92
+SG150148,GG (ee),Golden Gate,?,2005,537.13,88
+SG150150,GG (ee),Golden Gate,?,2005,653.72,96
+SG150207,GG (ee),Golden Gate,?,2005,486.2882,79
+SG150209,GG (ee),Golden Gate,?,2005,573.425,80
+SG150214,GG (ee),Golden Gate,?,2005,561.5186,82
+SG150215,GG (ee),Golden Gate,?,2005,605.0878,86
+SG150218,GG (ee),Golden Gate,?,2005,491.6211,75
+SG150219,GG (ee),Golden Gate,?,2005,494.136,74
+SG150220,GG (ee),Golden Gate,?,2005,618.0763,91
+SG150221,GG (ee),Golden Gate,?,2005,474.6578,73
+SG150222,GG (ee),Golden Gate,?,2005,461.1266,74
+SG150224,GG (ee),Golden Gate,?,2005,509.86,68
+SG150226,GG (ee),Golden Gate,?,2005,503.88,74
+SG150228,GG (ee),Golden Gate,?,2005,517.4147,77
+SG150229,GG (ee),Golden Gate,?,2005,449.0561,70
+SG150231,GG (ee),Golden Gate,?,2005,579.3808,87
+SG150232,GG (ee),Golden Gate,?,2005,533.9521,77
+SG150233,GG (ee),Golden Gate,?,2005,595.3464,79
+SG150234,GG (ee),Golden Gate,?,2005,544.75,84
+SG150237,GG (ee),Golden Gate,?,2005,613.81,85
+SG150238,GG (ee),Golden Gate,?,2005,699.5351,91
+SG150239,GG (ee),Golden Gate,?,2005,580.1907,87
+SG150243,GG (ee),Golden Gate,?,2005,573.08,79
+SG150244,GG (ee),Golden Gate,?,2005,642.1603,94
+SG150247,GG (ee),Golden Gate,?,2005,651.0911,90
+SG150250,GG (ee),Golden Gate,?,2005,497.8344,78
+SG150251,GG (ee),Golden Gate,?,2005,555.2946,85
+SG150252,GG (ee),Golden Gate,?,2005,489.87,80
+SG150256,GG (ee),Golden Gate,?,2005,484.394,76
+SG150258,GG (ee),Golden Gate,?,2005,449.2143,74
+SG150260,GG (ee),Golden Gate,?,2005,504.75,82
+SG150262,GG (ee),Golden Gate,?,2005,505.77,62
+SG150265,GG (ee),Golden Gate,?,2005,586.85,87
+SG150266,GG (ee),Golden Gate,?,2005,611.321,99
+SG150267,GG (ee),Golden Gate,?,2005,573.32,81
+SG150268,GG (ee),Golden Gate,?,2005,534.81,89
+SG150272,GG (ee),Golden Gate,?,2005,507.666,82
+SG150274,GG (ee),Golden Gate,?,2005,660.2889,93
+SG150275,GG (ee),Golden Gate,?,2005,622.68,105
+SG150276,GG (ee),Golden Gate,?,2005,682.7,94
+SG150279,GG (ee),Golden Gate,?,2005,627.8218,80
+SR00093,STA,Stanislaus River,W,2000,544,80
+SR00094,STA,Stanislaus River,W,2000,535,80
+SR00095,STA,Stanislaus River,W,2000,507,74
+SR00096,STA,Stanislaus River,W,2000,507,84
+SR00097,STA,Stanislaus River,W,2000,533,79
+SR00098,STA,Stanislaus River,W,2000,526,81
+SR00099,STA,Stanislaus River,W,2000,548,80
+SR00117,STA,Stanislaus River,W,2000,488,74
+SR00118,STA,Stanislaus River,W,2000,559,84
+SR00119,STA,Stanislaus River,W,2000,564,82
+SR00120,STA,Stanislaus River,W,2000,498,74
+SR00121,STA,Stanislaus River,W,2000,515,76
+SR00122,STA,Stanislaus River,W,2000,555,76
+SR00123,STA,Stanislaus River,W,2000,533,69
+SR00124,STA,Stanislaus River,W,2000,526,81
+SR00125,STA,Stanislaus River,W,2000,537,74
+SR00126,STA,Stanislaus River,W,2000,514,68
+SR00127,STA,Stanislaus River,W,2000,560,73
+SR00128,STA,Stanislaus River,W,2000,519,74
+SR00129,STA,Stanislaus River,W,2000,523,78
+SR00130,STA,Stanislaus River,W,2000,522,79
+SR00131,STA,Stanislaus River,W,2000,548,80
+SR00133,STA,Stanislaus River,W,2000,499,80
+SR00134,STA,Stanislaus River,W,2000,500,71
+SR00135,STA,Stanislaus River,W,2000,551,83
+SR00136,STA,Stanislaus River,W,2000,443,75
+SR00138,STA,Stanislaus River,W,2000,431,63
+SR00139,STA,Stanislaus River,W,2000,548,81
+SR20282,STA,Stanislaus River,W,2002,302,38
+SR20283,STA,Stanislaus River,W,2002,260,36
+SR20284,STA,Stanislaus River,W,2002,314,34
+SR20285,STA,Stanislaus River,W,2002,262,36
+SR20286,STA,Stanislaus River,W,2002,283,37
+SR20287,STA,Stanislaus River,W,2002,242,33
+SR20288,STA,Stanislaus River,W,2002,263,35
+SR20289,STA,Stanislaus River,W,2002,266,38
+SR20290,STA,Stanislaus River,W,2002,450,71
+SR20291,STA,Stanislaus River,W,2002,511,69
+SR20292,STA,Stanislaus River,W,2002,541,77
+SR20297,STA,Stanislaus River,W,2002,353,46
+SR20298,STA,Stanislaus River,W,2002,375,56
+SR20299,STA,Stanislaus River,W,2002,417,58
+SR20300,STA,Stanislaus River,W,2002,438,61
+SR20301,STA,Stanislaus River,W,2002,481,60
+SR20302,STA,Stanislaus River,W,2002,391,50
+SR20303,STA,Stanislaus River,W,2002,457,53
+SR20304,STA,Stanislaus River,W,2002,402,54
+SR20305,STA,Stanislaus River,W,2002,409,53
+SR20306,STA,Stanislaus River,W,2002,385,56
+SR20307,STA,Stanislaus River,W,2002,362,45
+SR20308,STA,Stanislaus River,W,2002,398,45
+SR20310,STA,Stanislaus River,W,2002,374,59
+SR20311,STA,Stanislaus River,W,2002,433,52
+SR20312,STA,Stanislaus River,W,2002,413,53
+SR20313,STA,Stanislaus River,W,2002,431,56
+SR20314,STA,Stanislaus River,W,2002,366,48
+SR20316,STA,Stanislaus River,W,2002,364,45
+SR20317,STA,Stanislaus River,W,2002,397,49
+SR20318,STA,Stanislaus River,W,2002,404,62
+SR20530,STA,Stanislaus River,W,2002,469,71
+SR20532,STA,Stanislaus River,W,2002,511,74
+SR20534,STA,Stanislaus River,W,2002,527,78
+SR20535,STA,Stanislaus River,W,2002,610,94
+SR20536,STA,Stanislaus River,W,2002,532,78
+SR20537,STA,Stanislaus River,W,2002,564,84
+SR20539,STA,Stanislaus River,W,2002,600,91
+SR20540,STA,Stanislaus River,W,2002,570,87
+SR20542,STA,Stanislaus River,W,2002,550,83
+SR20543,STA,Stanislaus River,W,2002,635,90
+SR20544,STA,Stanislaus River,W,2002,568,82
+SR130001,STA,Stanislaus River,W,2013,291,35
+SR130002,STA,Stanislaus River,W,2013,277.5,36
+SR130003,STA,Stanislaus River,W,2013,242,32
+SR130004,STA,Stanislaus River,W,2013,233,34
+SR130005,STA,Stanislaus River,W,2013,237,30
+SR130006,STA,Stanislaus River,W,2013,243,34
+SR130007,STA,Stanislaus River,W,2013,251,33
+SR130008,STA,Stanislaus River,W,2013,227,33
+SR130009,STA,Stanislaus River,W,2013,290,40
+SR130010,STA,Stanislaus River,W,2013,239,36
+SR130011,STA,Stanislaus River,W,2013,264,33
+SR130012,STA,Stanislaus River,W,2013,252,27.5
+SR130013,STA,Stanislaus River,W,2013,240,30
+SR130014,STA,Stanislaus River,W,2013,226,33
+SR130050,STA,Stanislaus River,W,2013,302,43
+SR130051,STA,Stanislaus River,W,2013,324,49
+SR130052,STA,Stanislaus River,W,2013,293,37.5
+SR130053,STA,Stanislaus River,W,2013,336,51.5
+SR130054,STA,Stanislaus River,W,2013,351,53.5
+SR130055,STA,Stanislaus River,W,2013,351,49.5
+SR130056,STA,Stanislaus River,W,2013,336,49
+SR130057,STA,Stanislaus River,W,2013,293,47
+SR130058,STA,Stanislaus River,W,2013,267,38
+SR130059,STA,Stanislaus River,W,2013,334,53
+SR130060,STA,Stanislaus River,W,2013,346,48
+TR30007,TUO,Tuolumne River,W,2003,550,84
+TR30006,TUO,Tuolumne River,W,2003,526,85
+TR30005,TUO,Tuolumne River,W,2003,483,78
+TR30004,TUO,Tuolumne River,W,2003,455,71
+TR30003,TUO,Tuolumne River,W,2003,540,87
+TR30002,TUO,Tuolumne River,W,2003,450,71
+AL012214_1,CNH,Coleman National Fish Hatchery,H,2014,194,34
+AL012314_1,CNH,Coleman National Fish Hatchery,H,2014,179,32
+AL012414_1,CNH,Coleman National Fish Hatchery,H,2014,177,34
+AL012514_1,CNH,Coleman National Fish Hatchery,H,2014,178,35
+AL012614_1,CNH,Coleman National Fish Hatchery,H,2014,208,35
+AL012714_1,CNH,Coleman National Fish Hatchery,H,2014,208,33
+AL012814_1,CNH,Coleman National Fish Hatchery,H,2014,176,33
+AL012914_1,CNH,Coleman National Fish Hatchery,H,2014,192,36
+AL013014_1,CNH,Coleman National Fish Hatchery,H,2014,191,36
+AL013114_1,CNH,Coleman National Fish Hatchery,H,2014,194,34
+AL020114_1,CNH,Coleman National Fish Hatchery,H,2014,197,34
+AL020214_1,CNH,Coleman National Fish Hatchery,H,2014,218,34
+AL020414_2,CNH,Coleman National Fish Hatchery,H,2014,229,36
+AL021114_3,CNH,Coleman National Fish Hatchery,H,2014,237,40
+FEA041015-1,FEA,Feather River,W,2015,295,39
+FEA041015-1,FEA,Feather River,W,2015,285,39
+FEA041015-2,FEA,Feather River,W,2015,302,42
+FEA050715-1,FEA,Feather River,W,2015,571,113
+FEA050715-2,FEA,Feather River,W,2015,702,116
+FEA050814-1,FEA,Feather River,W,2014,501,99
+FH20425,FRH,Feather River Hatchery,H,2002,500,85
+FH20431,FRH,Feather River Hatchery,H,2002,452,77
+FH40292,FRH,Feather River Hatchery,H,2004,528,78
+FH40308,FRH,Feather River Hatchery,H,2004,538,91
+FH40312,FRH,Feather River Hatchery,H,2004,434,73
+FH99506,FRH,Feather River Hatchery,H,1999,482,70
+SR110003,STA,Stanislaus River,W,2011,288,45
+TJ11-112,TUO,Tuolumne River,W,2011,693,128
+TJ11-113,TUO,Tuolumne River,W,2011,200,35
+TJ11-80,TUO,Tuolumne River,W,2011,222,36
+TJ11-90,TUO,Tuolumne River,W,2011,242,34
+TJ11-97,TUO,Tuolumne River,W,2011,229,35
+TJ11-98,TUO,Tuolumne River,W,2011,293,45
+YR20380,YUB,Yuba River,W,2002,314,60
+YR20383,YUB,Yuba River,W,2002,415,62
+YR20392,YUB,Yuba River,W,2002,362,60
+YR20396,YUB,Yuba River,W,2002,399,54
+YR20406,YUB,Yuba River,W,2002,357,54
+YR20409,YUB,Yuba River,W,2002,420,69
+YR20412,YUB,Yuba River,W,2002,352,50
+YR20596,YUB,Yuba River,W,2002,397,57
+YR20600,YUB,Yuba River,W,2002,318,46
+YR20603,YUB,Yuba River,W,2002,332,47
+YR20607,YUB,Yuba River,W,2002,407,63
+MR30028,MER,Merced River,W,2003,422,62
+MR30026,MER,Merced River,W,2003,540,79
+MR30020,MER,Merced River,W,2003,519,82
+MR30016,MER,Merced River,W,2003,530,70
+SR120021,STA,Stanislaus River,W,2012,432,71
+SR120020,STA,Stanislaus River,W,2012,398,69
+SR120019,STA,Stanislaus River,W,2012,437,75
+SR120018,STA,Stanislaus River,W,2012,400,74
+SR120016,STA,Stanislaus River,W,2012,471,85
+SR120015,STA,Stanislaus River,W,2012,449,75
+SR120014,STA,Stanislaus River,W,2012,406,75
+SR120013,STA,Stanislaus River,W,2012,479,69
+SR120004,STA,Stanislaus River,W,2012,353,58
+SR120002,STA,Stanislaus River,W,2012,353,57
+SR110004,STA,Stanislaus River,W,2011,501,85
+SR110001,STA,Stanislaus River,W,2011,382,56
+SR99149,STA,Stanislaus River,W,1999,422,63
+TJ11-105,STA,Stanislaus River,W,2011,456,75
+TJ11-98,STA,Stanislaus River,W,2011,290,45
+TJ11-88,STA,Stanislaus River,W,2011,376,59
+SR99154,STA,Stanislaus River,W,1999,404,65.5
+SR99153,STA,Stanislaus River,W,1999,471,82.24
+SR99152,STA,Stanislaus River,W,1999,492,82.07
+SR99151,STA,Stanislaus River,W,1999,530,95.38
+SR99150,STA,Stanislaus River,W,1999,391,61
+SR99147,STA,Stanislaus River,W,1999,470,82.5
