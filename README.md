@@ -1,9 +1,9 @@
 Predicting juvenile salmon forklength from otoliths
 ================
 
-This is a working example of how to reconstruct the forklength (FL) of juvenile Chinook salmon from otolith radius measurements. You will need the `segmented` package as we are going to fit a segmented/broken stick regression model.
+This is an example of how to reconstruct the forklength (FL) of juvenile Chinook salmon from otolith radius measurements in R. You will need the `segmented` package as we are going to fit a segmented/broken stick regression model.
 
-If you wish to apply the relationship to your own otolith radius measurements it is important to use the 90 degree transect starting at the most dorsal-posterior primordium (see figure below). Also note that all samples used in the calibration are fall run Chinook salmon from the California Central Valley and individuals from other Evolutionarily Significant Units may exhibit a significantly different relationship (Zabel et al. 2010. Environmental Biology of Fishes, 89, p.267-78)
+If you use our training data (294 fall-run juvenile California Central Valley Chinook salmon from various locations) measure otolith radius using the 90 degree transect starting at the most dorsal-posterior primordium (see figure below). Also note that salmon populations from other "Evolutionarily Significant Units" may exhibit significantly different relationships [(Zabel et al. 2010. Environmental Biology of Fishes, 89, p.267-78)]()
 
 ![](or_fl_cal_files/figure-markdown_github/oto_image.png)
 
@@ -18,7 +18,7 @@ Load in the data
 calib = read.csv("https://raw.githubusercontent.com/annasturrock/Oto_size_fish_size_calibration/master/OR_FL_FINALforR.csv")
 ```
 
-This contains x, y and z...
+This training data contains otolith radius (OR, microns) and forklength (FL, mm) measurements for 294 Central Valley juvenile fall-run Chinook salmon, as well as the site and year of collection.
 
 ``` r
 head(calib)
@@ -40,7 +40,7 @@ FL <- calib$FL
 OR <- calib$OR
 ```
 
-We are now going to fix the y intercept at 30 mm as size at first feeding (~32mm) fitted the data and reflected literature (Titus et al 2004). \# Without this action the first segment had an negative slope (an artefact of the patchy calibration data between 25 and 35mm FL).
+We now fixed the y intercept at 30 mm so that size at first feeding reflected literature values (Titus et al 2004). \# Without this action the first segment had a slightly negative slope (an artefact of the patchy calibration data between 25 and 35mm FL).
 
 ``` r
 forced.intercept <- 30
@@ -68,7 +68,8 @@ Having fit the model, we can obtain fitted values as follows
 
 ``` r
 FL.bs <- predict(res.bs) + forced.intercept
-plot(FL.bs,FL)
+plot(FL.bs,FL, pch = 16, col = alpha("black", 0.7))
+abline(0,1, col = "red", lty = "dashed")
 ```
 
 ![](or_fl_cal_files/figure-markdown_github/unnamed-chunk-7-1.png)
@@ -76,15 +77,18 @@ plot(FL.bs,FL)
 To show the fitted line, we can order the OR values and plot a line
 
 ``` r
-plot(FL ~ OR, data = calib, pch = 16, col = alpha("black", 0.7),type = "p", ylab = "Fork length (mm)", 
-     xlab = "Otolith radius (µm)", las = 1, cex.lab = 1.3) #main = "Fork length prediction"
+plot(FL ~ OR, data = calib, 
+    pch = 16, col = alpha("black", 0.7),type = "p", 
+    ylab = "Fork length (mm)", 
+    xlab = "Otolith radius (µm)", 
+    las = 1, cex.lab = 1.3) 
+    
 points(FL.bs[order(OR)] ~ OR[order(OR)], col = "red", pch = 16, type = "l", lwd = 2.5)
-text(198,128,"A", cex = 2)
 ```
 
 ![](or_fl_cal_files/figure-markdown_github/unnamed-chunk-8-1.png)
 
-We can also calculate the residuals before and after the breakpoint.
+We can also calculate the residuals before and after the breakpoint.  
 
 ``` r
 resid.segm <- FL - FL.bs
@@ -94,7 +98,9 @@ SD1 <- round(sd(resid.segm[OR < res.bs$psi[2]]),2)
 SD2 <- round(sd(resid.segm[OR >= res.bs$psi[2]]),2)
 ```
 
-And then plot those using boxplots
+And then plot those using boxplots. 
+
+We used these residuals to estimate uncertainty around reconstructed forklengths in juvenile and adult salmon, collected as they left freshwater and returned to spawn, respectively. By comparing the same metric (e.g. size at exit from the natal stream) across life stages within a single cohort, otoliths provide a powerful tool to explore patterns in size and time-selective mortality.
 
 ``` r
 boxplot(resid.segm[OR < res.bs$psi[2]], resid.segm[OR >= res.bs$psi[2]], names = c("Before breakpoint", "After breakpoint"), col = "light grey", 
