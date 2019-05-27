@@ -3,7 +3,7 @@ Predicting juvenile salmon forklength from otoliths
 
 This is an example of how to reconstruct the forklength (FL) of juvenile Chinook salmon from otolith radius measurements in R. You will need the `segmented` package as we are going to fit a segmented/broken stick regression model.
 
-If you use our training data (294 fall-run juvenile California Central Valley Chinook salmon from various locations) measure otolith radius using the 90 degree transect starting at the most dorsal-posterior primordium (see figure below). Also note that salmon populations from other "Evolutionarily Significant Units" may exhibit significantly different relationships [(Zabel et al. 2010. Environmental Biology of Fishes, 89, p.267-78)]()
+If you use our training data (294 fall-run juvenile California Central Valley Chinook salmon from various locations) measure otolith radius using the 90 degree transect starting at the most dorsal-posterior primordium (see figure below). Also note that salmon populations from other "Evolutionarily Significant Units" may exhibit significantly different relationships [(Zabel et al. 2010. Environmental Biology of Fishes, 89, p.267-78)](https://link.springer.com/article/10.1007/s10641-010-9678-x)
 
 ![](or_fl_cal_files/figure-markdown_github/oto_image.png)
 
